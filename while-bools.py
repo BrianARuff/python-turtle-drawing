@@ -9,7 +9,9 @@ count = int(count)
 if not count:
     count = 1
 
-while count > 0:
+running = True
+
+while running:
     if polygon == "T":
         for i in range(0, 3):
             turtle.forward(100)
@@ -21,4 +23,6 @@ while count > 0:
     else:
         print("Invalid Choice")
     count -= 1
+    if count == 0:
+        running = False
     turtle.forward(10)
