@@ -4,7 +4,7 @@ import turtle
 
 print("Draw Sqaure or Triangle?")
 
-polygon = input()
+polygon = input().lower().capitalize()
 
 if polygon == "Triangle":
     for i in range(0, 3):
