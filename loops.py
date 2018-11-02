@@ -5,7 +5,7 @@
 
 # loop through string
 
-string = "hello"
+# string = "hello"
 
 # for i in range(0, len(string)):
 #     if(string[i] == "h"):
@@ -28,12 +28,19 @@ string = "hello"
 # for num in arr:
 #     print(num)
 
-person = {
-    "name": "Brian",
-    "age": 29,
-    "height": 75,
-    "eye color": "green"
-}
+# person = {
+#     "name": "Brian",
+#     "age": 29,
+#     "height": 75,
+#     "eye color": "green"
+# }
+#
+# for attr in person:
+#     print(str(attr) + ": " + str(person[attr]))
 
-for attr in person:
-    print(str(attr) + ": " + str(person[attr]))
+
+# Pyramid Challenge
+count = 1
+for i in range(0, 5):
+    print("*" * count)
+    count += 2
