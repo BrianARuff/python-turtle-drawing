@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4264fd9d-2349-475c-b35c-bcadbaebaf65" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/addNumsToNth.py" beforeDir="false" afterPath="$PROJECT_DIR$/addNumsToNth.py" afterDir="false" />
-    </list>
+    <list default="true" id="4264fd9d-2349-475c-b35c-bcadbaebaf65" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,25 +22,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="3" />
-          <entry key="py" value="10" />
+          <entry key="py" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="10" />
+          <entry key="Python" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="py" value="6823" />
+          <entry key="py" value="7488" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="6823" />
+          <entry key="Python" value="7488" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -51,10 +49,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/list-functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="623">
+              <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lists.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -90,6 +97,7 @@
         <option value="$PROJECT_DIR$/addNumsToNth.py" />
         <option value="$PROJECT_DIR$/second_proj/lists.py" />
         <option value="$PROJECT_DIR$/lists.py" />
+        <option value="$PROJECT_DIR$/list-functions.py" />
       </list>
     </option>
   </component>
@@ -142,7 +150,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lists">
+  <component name="RunManager" selected="Python.list-functions">
     <configuration name="addNumsToNth" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="intro-to-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,7 +214,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="list-functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="intro-to-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -218,7 +226,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list-functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,19 +257,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.functions" />
       <item itemvalue="Python.functions-organized-programs" />
       <item itemvalue="Python.built-in-string-functions" />
       <item itemvalue="Python.addNumsToNth" />
       <item itemvalue="Python.lists" />
+      <item itemvalue="Python.list-functions" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.list-functions" />
         <item itemvalue="Python.lists" />
         <item itemvalue="Python.addNumsToNth" />
         <item itemvalue="Python.built-in-string-functions" />
         <item itemvalue="Python.functions-organized-programs" />
-        <item itemvalue="Python.functions" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +288,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2560" y="360" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -391,8 +398,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lists.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list-functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
         </state>
       </provider>
     </entry>
